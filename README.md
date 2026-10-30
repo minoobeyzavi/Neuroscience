@@ -1,5 +1,7 @@
 # Neuroscience
-A Study of Practical Applications of Data Science in Neuroscience and Medicine.
+Leveraging machine learning and data science to advance practical applications in neuroscience and mental health.
+
+Exploring data-driven and AI solutions at the intersection of neuroscience, clinical medicine and mental healthcare.
 
 Data science transforms neuroscience and medicine by turning high-dimensional, complex datasets into actionable clinical and research insights.
 
@@ -26,7 +28,7 @@ https://news.stanford.edu/stories/2025/10/hub-neural-data-science
 https://www.institutedata.com/us/blog/neuroscience-and-data-science/
 https://reviewbooku.com/review/data-science-in-neuroscience-5053310
 
-Neuroscience Data, Models and Software
+Neuroscience Data, Models and Software</br>
 https://en.wikipedia.org/wiki/List_of_neuroscience_databases </br>
 https://openneuro.org/ </br>
 https://cshl.libguides.com/c.php?g=523983&p=3582594 </br>

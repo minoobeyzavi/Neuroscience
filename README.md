@@ -28,6 +28,34 @@ https://news.stanford.edu/stories/2025/10/hub-neural-data-science
 https://www.institutedata.com/us/blog/neuroscience-and-data-science/
 https://reviewbooku.com/review/data-science-in-neuroscience-5053310
 
+#### Integrating physical health with mental health
+Integrating physical and mental health means treating the body and mind as a single, connected system rather than separate parts.
+
+The Mind-Body Connection
+* Two-way street: Chronic physical conditions (like heart disease, diabetes, or chronic pain) increase the risk of anxiety and depression. Conversely, mental health struggles can manifest as physical symptoms like fatigue, headaches, or digestive issues, and can lower the motivation to practice self-care.
+* Biological links: High stress and inflammation affect both systems. Chronic stress activates the body's stress response (HPA axis) and triggers inflammation, which can alter brain chemistry and lower mood-regulating neurotransmitters like serotonin.
+
+Key Pillars of Integration
+* Exercise: Regular physical activity releases brain chemicals called endorphins, reduces symptoms of anxiety and depression, and improves cognitive function.
+* Nutrition: A balanced diet—such as a nutrient-rich Mediterranean style diet—supports gut microbiome diversity and brain health, which directly influences emotional stability.
+* Sleep: Quality sleep restores emotional resilience, while poor sleep worsens irritability, stress, and mental health symptoms.
+* Co-located care: Traditional healthcare often separates doctors and therapists. Integrated health care models bring primary care doctors, nurses, and mental health counselors together so patients receive whole-person treatment in one setting.
+Learn more about system-wide approaches and policy changes through the National Alliance on Mental Illness (NAMI) or explore global perspectives with the American Psychological Association (APA).
+* Create lifestyle strategies to boost daily wellness
+* Find integrated medical care for specific conditions
+
+https://www.apa.org/international/networks/global-psychology-alliance/lesson-6-physical-mental-health.pdf
+https://www.nami.org/advocacy-at-nami/policy-positions/improving-health/physical-mental-health-integration/
+https://www.mentalhealth.org.uk/explore-mental-health/a-z-topics/physical-health-and-mental-health
+https://www.aha.org/news/perspective/2024-04-26-integrating-mental-and-physical-health-better-support-patients-and-communities
+http://www.ibhpartners.org/wp-content/uploads/2015/12/integrating-physical-activity-with-smi.pdf
+https://reference-global.com/download/article/10.5334/ijic.2605.pdf
+https://pmc.ncbi.nlm.nih.gov/articles/PMC5066536/pdf/10.1177_0141076816665270.pdf
+https://journeyscounselingaz.com/blog/integrating-physical-mental-health-to-enhance-your-well-being
+https://ppimhs.org/newspost/unveiling-the-connection-between-physical-and-mental-health-the-power-of-exercise-nutrition-and-sleep/
+https://www.psychiatry.org/patients-families/lifestyle-to-support-mental-health/
+https://journals.sagepub.com/doi/full/10.1177/0141076816665270
+
 Neuroscience Data, Models and Software</br>
 https://en.wikipedia.org/wiki/List_of_neuroscience_databases </br>
 https://openneuro.org/ </br>
